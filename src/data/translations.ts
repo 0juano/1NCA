@@ -14,25 +14,23 @@ export const translations: Record<string, Translations> = {
         line1: "experts in",
         line2: "private",
         line3: "client",
-        line4: "worldwide.",
+        line4: "services.",
       },
-      description: "One North Capital Advisors specializes in long-term family wealth preservation and growth, serving a select group of sophisticated clients with institutional-grade investment expertise. We are distinguished by three essential principles: aligned incentives, mutual trust, and proven track record.",
+      description: "One North Capital Advisors specializes in long-term preservation and growth of wealth. We combine institutional investment expertise with boutique-level personal service, guided by unwavering principles of alignment, trust, and proven results.",
       cta: "Learn more",
     },
     whyChooseUs: {
-      title: "Why Choose Us",
-      subtitle: "Our relevant experience and clear philosophy set us apart in wealth management.",
+      title: "Experience That Matters",
       relevantExperience: {
-        title: "Relevant Experience",
+        title: "Investment Excellence",
         items: [
-          "15+ years in institutional investment management",
-          "CFA with global experience",
-          "Senior roles at reputed global funds",
-          "Successful management of personal and family wealth for two decades",
+          "Global perspective from 15+ years managing institutional portfolios",
+          "Senior leadership experience at reputed global funds",
+          "CFA charterholder with proven track record in personal wealth management",
         ],
       },
       clearPhilosophy: {
-        title: "Clear Philosophy",
+        title: "Client-First Approach",
         items: [
           "Personal and direct attention",
           "Proven methodology",
@@ -43,7 +41,7 @@ export const translations: Record<string, Translations> = {
     },
     ourPhilosophy: {
       title: "Our Philosophy",
-      subtitle: "We believe in a clear and proven approach to wealth management.",
+      subtitle: "Our approach is built on proven principles.",
       personalAttention: {
         title: "Personal Attention",
         items: [
@@ -93,9 +91,9 @@ export const translations: Record<string, Translations> = {
       ],
     },
     contact: {
-      title: "Let's Discuss Your Wealth Management Goals",
-      subtitle: "Schedule a consultation to discuss how we can tailor our expertise to your unique financial goals.",
-      cta: "Schedule Consultation",
+      title: "Begin Your Wealth Journey",
+      subtitle: "Let's discuss how we can help preserve and grow your family's wealth.",
+      cta: "Schedule a Consultation",
     },
     footer: {
       quote: "\"It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent\"",
@@ -110,30 +108,29 @@ export const translations: Record<string, Translations> = {
       contact: "Contacto",
     },
     hero: {
-      subtitle: "GESTIÓN PATRIMONIAL PERMANENTE",
+      subtitle: "CONSTRUYENDO PATRIMONIO DURADERO",
       title: {
         line1: "expertos en",
-        line2: "gestión",
-        line3: "patrimonial",
-        line4: "mundial.",
+        line2: "servicios",
+        line3: "de gestión",
+        line4: "patrimonial.",
       },
-      description: "One North Capital Advisors se especializa en la preservación y crecimiento del patrimonio familiar a largo plazo, atendiendo a un selecto grupo de clientes sofisticados con experiencia en inversiones de nivel institucional. Nos distinguen tres principios esenciales: incentivos alineados, confianza mutua y trayectoria demostrada.",
+      description: "One North Capital Advisors se especializa en la preservación y crecimiento del patrimonio a largo plazo. Combinamos experiencia en inversiones institucionales con un servicio personal boutique, guiados por principios inquebrantables de alineación, confianza y resultados probados.",
       cta: "Conocer más",
     },
     whyChooseUs: {
-      title: "Por Qué Elegirnos",
-      subtitle: "Nuestra experiencia relevante y filosofía clara nos distinguen en la gestión patrimonial.",
+      title: "Experiencia que Importa",
+      
       relevantExperience: {
-        title: "Experiencia Relevante",
+        title: "Excelencia en Inversiones",
         items: [
-          "15+ años en gestión de inversiones institucionales",
-          "CFA con experiencia global",
-          "Roles senior en fondos globales reconocidos",
-          "Gestión exitosa de patrimonio personal y familiar por dos décadas",
+          "Perspectiva global con más de 15 años gestionando carteras institucionales",
+          "Experiencia directiva en fondos globales de renombre",
+          "Charterholder CFA con trayectoria probada en gestión patrimonial personal",
         ],
       },
       clearPhilosophy: {
-        title: "Filosofía Clara",
+        title: "Enfoque en el Cliente",
         items: [
           "Atención personal y directa",
           "Metodología probada",
@@ -156,7 +153,7 @@ export const translations: Record<string, Translations> = {
       provenMethodology: {
         title: "Metodología Probada",
         items: [
-          "Las acciones son la mejor herramienta de creación de riqueza",
+          "Creemos que las acciones son la mejor herramienta de creación de riqueza",
           "Diversificación verdadera y consistente",
           "Enfoque en liquidez y costos bajos",
           "Disciplina ante la volatilidad del mercado",
@@ -194,9 +191,9 @@ export const translations: Record<string, Translations> = {
       ],
     },
     contact: {
-      title: "Conversemos Sobre Sus Objetivos Patrimoniales",
-      subtitle: "Agende una consulta para explorar cómo nuestra experiencia institucional puede adaptarse a las necesidades únicas de su familia.",
-      cta: "Agendar Consulta",
+      title: "Inicie su Camino Patrimonial",
+      subtitle: "Conversemos sobre cómo podemos ayudar a preservar y hacer crecer el patrimonio de su familia.",
+      cta: "Agendar una Consulta",
     },
     footer: {
       quote: "\"Es notable cuánta ventaja a largo plazo hemos obtenido simplemente tratando de no ser consistentemente estúpidos, en lugar de tratar de ser muy inteligentes\"",
